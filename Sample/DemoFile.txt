@@ -1,0 +1,6 @@
+My first Demo to show how to add ,commit and push the changes
+
+
+git add.
+git commit -m "message"
+git push -u origin master
